@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+}
+h1{
+    border:5px solid green;
+    width:100px;
+    padding:10px;
+    text-align:center;
+    margin-left:200px;
+    margin-top:200px;
+    position:absolute;
+    background-color:darkgrey;
+}
+h2{
+    border:2px solid black;
+    width:100px;
+    border-radius:50%;
+    text-align:center;
+    background-color:red;
+    position:relative;
+    left:280px;
+    top:170px;
+}
